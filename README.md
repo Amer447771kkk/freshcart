@@ -7,51 +7,42 @@ It delivers a smooth, modern, and user-friendly online shopping experience — f
 🔐 User Authentication
 
 Secure login & registration
-
 JWT-based authentication
-
 Forgot password & recovery flow
 
 📦 Product Management
 
 Browse by categories & brands
-
 Detailed product pages with images, descriptions & pricing
 
 💳 Payment Options
 
 Secure online payments
-
 Cash on delivery
 
 📑 Order Management
 
 View current & past orders
-
 Detailed order history
 
 ⚡ Single Page Application (SPA)
 
 Fast navigation
-
 Minimal loading time
 
 📱 Responsive Design
 
 Fully responsive across devices
-
 Dark mode support
 
 📝 Form Validation
 
 Formik & Yup validation
-
 Secure recovery code verification
 
 🛒 Cart System
 
 Add / remove products
-
 Update quantities dynamically
 
 ❤️ Wishlist
