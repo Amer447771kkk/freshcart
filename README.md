@@ -1,83 +1,87 @@
-🛒 FreshCart – Modern E-Commerce Web Application
+# 🛒 FreshCart – Modern E-Commerce Web Application
 
-FreshCart is my very first e-commerce project built using React.js.
+FreshCart is my very first e-commerce project built using React.js.  
 It delivers a smooth, modern, and user-friendly online shopping experience — from product browsing to secure checkout and order management.
 
-🌟 Key Features
-🔐 User Authentication
+---
 
-Secure login & registration
-JWT-based authentication
-Forgot password & recovery flow
+## 🌟 **Key Features**
 
-📦 Product Management
+### **🔐 User Authentication**
+Secure login & registration  
+JWT-based authentication  
+Forgot password & recovery flow  
 
-Browse by categories & brands
-Detailed product pages with images, descriptions & pricing
+### **📦 Product Management**
+Browse by categories & brands  
+Detailed product pages with images, descriptions & pricing  
 
-💳 Payment Options
+### **💳 Payment Options**
+Secure online payments  
+Cash on delivery  
 
-Secure online payments
-Cash on delivery
+### **📑 Order Management**
+View current & past orders  
+Detailed order history  
 
-📑 Order Management
+### **⚡ Single Page Application (SPA)**
+Fast navigation  
+Minimal loading time  
 
-View current & past orders
-Detailed order history
+### **📱 Responsive Design**
+Fully responsive across devices  
+Dark mode support  
 
-⚡ Single Page Application (SPA)
+### **📝 Form Validation**
+Formik & Yup validation  
+Secure recovery code verification  
 
-Fast navigation
-Minimal loading time
+### **🛒 Cart System**
+Add / remove products  
+Update quantities dynamically  
 
-📱 Responsive Design
+### **❤️ Wishlist**
+Save favorite products  
 
-Fully responsive across devices
-Dark mode support
+### **🌍 Global State Management**
+Context API implementation  
 
-📝 Form Validation
+### **🚀 Deployment**
+Deployed on Vercel  
 
-Formik & Yup validation
-Secure recovery code verification
+---
 
-🛒 Cart System
+## ⚙️ **Tech Stack**
 
-Add / remove products
-Update quantities dynamically
+React.js • React Router DOM • Tailwind CSS • Axios • React Query • Context API • Formik & Yup • JWT • Protected Routes • React Helmet • Slick Carousel • Toaster Notifications  
 
-❤️ Wishlist
+---
 
-Save favorite products
+## 🔗 **Live Demo**
 
-🌍 Global State Management
+https://freshcart-azure-ten.vercel.app  
 
-Context API implementation
+---
 
-🚀 Deployment
+## 📂 **GitHub Repository**
 
-Deployed on Vercel
+https://github.com/Amer447771kkk/FreshCart  
 
-⚙️ Tech Stack
+---
 
-React.js • React Router DOM • Tailwind CSS • Axios • React Query • Context API • Formik & Yup • JWT • Protected Routes • React Helmet • Slick Carousel • Toaster Notifications
+## 👨‍💻 **GitHub Profile**
 
-🔗 Live Demo
+https://github.com/Amer447771kkk  
 
-https://freshcart-azure-ten.vercel.app
+---
 
-📂 GitHub Repository
-
-https://github.com/Amer447771kkk/FreshCart
-
-👨‍💻 GitHub Profile
-
-https://github.com/Amer447771kkk
-
-🎯 About
+## 🎯 **About**
 
 Built during my journey with Route Academy, this project reflects my passion for frontend development and building scalable real-world applications.
 
-💬 Feedback
+---
 
-I’d love to hear your feedback and suggestions.
+## 💬 **Feedback**
+
+I’d love to hear your feedback and suggestions.  
 More updates coming soon 🚀
